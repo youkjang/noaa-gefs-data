@@ -28,7 +28,6 @@ This project was developed as a practical scientific programming workflow for wo
 ```text
 noaa-gefs-data/
 ├── README.md
-├── requirements.txt
 ├── notebooks/
 │   ├── 01.open_gefs_files_colab.ipynb
 │   ├── 02.ensemble_mean_spread_analysis.ipynb
